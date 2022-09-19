@@ -1,0 +1,12 @@
+{
+  "name": "mr-joke",
+  "version": "1.0.0",
+  "description": "Un projet de test pour publier un package de npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
